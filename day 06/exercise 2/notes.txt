@@ -1,0 +1,3 @@
+class Dice
+    - roll() - a list of values / TUPLE!
+    

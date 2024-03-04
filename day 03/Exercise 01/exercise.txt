@@ -1,0 +1,14 @@
+use nest loop
+
+show this:
+
+xxxxx
+xx
+xxxxx
+xx
+xx
+
+hint
+
+numbers [5,2,5,2,2]
+number of X

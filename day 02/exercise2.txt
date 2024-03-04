@@ -1,0 +1,6 @@
+if name is less than 3characters long
+    name must be at least 3 characters
+otherwise if it's nmore than 50 characters long
+    name can be a max of 50 characters
+otherwise
+    name looks good

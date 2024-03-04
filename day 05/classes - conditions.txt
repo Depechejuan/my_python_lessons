@@ -1,0 +1,16 @@
+Numbers
+Strings
+Booleans
+--- Lists
+Dictionaries
+
+A shopping cart is nothing like above.
+
+Example:
+
+numbers = [1,2,3]
+numbers.(Acces methods and functions)
+We will create this
+point.move
+point.draw
+point.get_distance

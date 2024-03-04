@@ -1,0 +1,10 @@
+if applicant has hight income AND good credit
+    Eligible for loan
+if applicant has hight income OR good credit
+    Eligible for loan
+
+if applicant has good credit AND doesn't have a criminal record
+    Eligible for Loan
+AND : Both conditions
+OR : at least one
+NOT: Inverse

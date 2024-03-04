@@ -1,0 +1,17 @@
+write "help" to show how the program works
+    start - to start the car
+    stop - to stop the car
+    quit - to exit
+
+If you write something else 
+    print("I don't understand that)
+
+if start
+    car started... ready to go
+
+if stop
+    car stopped
+
+if quit
+    exit
+    
